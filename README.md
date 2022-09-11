@@ -11,5 +11,5 @@ collected into a project.
 - Improve some script (maybe) ahahha
 
 ### Contribute by
-- Faiz Hazim Hawari as Lead Project
-- Muhammad Syafrie Hakim as Co-Lead
+- [Faiz Hazim Hawari](https://www.instagram.com/faizhazimhawarii/) as Lead Project
+- [Muhammad Syafrie Hakim](https://www.instagram.com/mhdsyafriehakim/) as Co-Lead
