@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://github.com/Zazaaw/Dasar-Pemrograman-USU"><img src="https://github.com/Zazaaw/Dasar-Pemrograman-USU/blob/main/banner%20random%20project%pt2.png" width="800px"></a></h3>
+<h3 align="center"><a href="https://github.com/Zazaaw/Dasar-Pemrograman-USU"><img src="https://github.com/Zazaaw/Dasar-Pemrograman-USU/blob/main/banner%20random%20project%20pt2.png" width="800px"></a></h3>
 
 ---
 
